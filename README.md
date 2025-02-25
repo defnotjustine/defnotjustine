@@ -17,7 +17,7 @@
 
 **About Me!**
 
-👩‍💻 I’m a Computer Engineering student at Rzeszów University of Technology, diving deep into the world of coding and system design.  
+👩‍💻 I’m a Computer Engineering student at Wroclaw University of Science and Technology, diving deep into the world of coding and system design.  
 🌟 Passionate about solving complex problems with clean and efficient code, especially when it comes to optimizing algorithms and building robust systems.  
 💡 Always curious, I love learning new things and pushing my limits, whether it’s a tricky algorithm or a new programming language.  
 📬 Want to chat about coding or new tech? I’m all ears! Reach out to me at [yustynasukhorab@gmail.com](mailto:yustynasukhorab@gmail.com).
