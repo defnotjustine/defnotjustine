@@ -1,6 +1,6 @@
 <h2 title="hehehe"> Hey🌸, I'm Justine!</h2>
 
-<a href="https://www.linkedin.com/in/yustynasukhorab/">
+<a href="https://www.linkedin.com/in/yustyna-sukhorab/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://i.pinimg.com/1200x/91/da/1e/91da1e089b8889cf44ac93aa3695c2dc.jpg" />
 </a>
 
