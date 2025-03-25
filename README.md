@@ -23,7 +23,7 @@
 
 🌺 When I’m not focused on coding, I enjoy a good cup of matcha and have a passion for video editing.
 
-🌸 Feel free to reach out to me at [yustynasukhorab@gmail.com](mailto:yustynasukhorab@gmail.com). if you want to chat about tech or anything else.
+🌸 Feel free to reach out to me at [yustynasukhorab@gmail.com](mailto:yustynasukhorab@gmail.com) if you want to chat about tech or anything else.
 
 
 
