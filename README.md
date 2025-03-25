@@ -31,10 +31,10 @@
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://i.pinimg.com/736x/95/22/51/9522517aa56af6127917f8ac8b07b2bc.jpg"></code> Python
-<code><img height="20" src="https://i.pinimg.com/736x/95/22/51/9522517aa56af6127917f8ac8b07b2bc.jpg"></code> Java
-
 <code><img height="20" src="https://i.pinimg.com/736x/95/22/51/9522517aa56af6127917f8ac8b07b2bc.jpg"></code> C++
+<code><img height="20" src="https://i.pinimg.com/736x/95/22/51/9522517aa56af6127917f8ac8b07b2bc.jpg"></code> Python
+
+<code><img height="20" src="https://i.pinimg.com/736x/95/22/51/9522517aa56af6127917f8ac8b07b2bc.jpg"></code> Java
 <code><img height="20" src="https://i.pinimg.com/736x/95/22/51/9522517aa56af6127917f8ac8b07b2bc.jpg"></code> MySQL
 
 
